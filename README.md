@@ -1,1 +1,1 @@
-ToDoList application is to manage task list for different users. They can create new tasks , give a title and select project . They can edit their task and even remove the tasks.They can save and quit the tasks whene ever neeeded.
+ToDoList application is to manage task list for different users. The users can create a new tasks, give a title and select project . The users can see the Task list, so that they can edit,remove,save and quit the tasks when ever needed.
